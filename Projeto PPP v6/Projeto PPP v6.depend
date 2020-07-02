@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527275879 source:c:\users\joaom\desktop\projeto ppp v6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"projeto.h"
+
+1527275913 c:\users\joaom\desktop\projeto ppp v6\projeto.h
+
